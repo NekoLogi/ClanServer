@@ -1,0 +1,16 @@
+25-09-2019_18-58-44
+Host: localhost
+Connection: keep-alive
+Content-Length: 538
+Cache-Control: max-age=0
+Origin: http://localhost
+Upgrade-Insecure-Requests: 1
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryLY30epS45RxNGLBN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.94
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Referer: http://localhost/Clan_Beitreten.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7

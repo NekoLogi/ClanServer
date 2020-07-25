@@ -1,0 +1,7 @@
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\obj\Debug\ClanServer.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\obj\Debug\ClanServer.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\bin\Debug\ClanServer.exe.config
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\bin\Debug\ClanServer.exe
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\bin\Debug\ClanServer.pdb
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\obj\Debug\ClanServer.exe
+C:\Users\Michael\Desktop\Projekte\ClanServer\ClanServer\obj\Debug\ClanServer.pdb
